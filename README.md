@@ -42,11 +42,11 @@ All results are demonstrated with GIFs.
 
 |  **doorkey-5x5-normal**  |  **doorkey-6x6-direct**  |
 | :----------------------: | :----------------------: |
-|                          |                          |
+|     <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-5x5-normal.gif" width="80">                     | <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-6x6-direct.gif" width="80">                         |
 |  **doorkey-6x6-normal**  | **doorkey-6x6-shortcut** |
-|                          |                          |
+| <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-6x6-normal.gif" width="80">                         | <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-6x6-shortcut.gif" width="80">                         |
 |  **doorkey-8x8-normal**  |  **doorkey-8x8-direct**  |
-|                          |                          |
+| <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-8x8-normal.gif" width="80">                         | <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-8x8-direct.gif" width="80">                         |
 | **doorkey-8x8-shortcut** |                          |
-|                          |                          |
+|<img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/gif/doorkey-8x8-shortcut.gif" width="80">                          |                          |
 

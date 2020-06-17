@@ -1,5 +1,7 @@
 # Dynamic Programming and Markov Processes
 
+<img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/env.png" width="120">
+
 ## Introduction
 
 - In this paper, we aims to design an algorithm that generate **an optimal path for a given Key and Door environment.** 
@@ -26,3 +28,8 @@
 ​	It is an algorithm that can compute an optimal closed-loop policy given a known Markov Decision Process model of the environment. The main idea is to use the value functions to structure the search for good polices. The advantages it has are that it is much more efficient than the brute-force approach of evaluating all possible strategies. 
 
 <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/DP_alg.png" width="360">
+
+## Test cases
+There are 7 test cases, which are built with the module gym-minigrid.
+
+<img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/testcase.png" width="480">

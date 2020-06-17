@@ -33,3 +33,20 @@
 There are 7 test cases, which are built with the module gym-minigrid.
 
 <img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/testcase.png" width="480">
+
+
+
+## Results
+
+All results are demonstrated with GIFs.
+
+|  **doorkey-5x5-normal**  |  **doorkey-6x6-direct**  |
+| :----------------------: | :----------------------: |
+|                          |                          |
+|  **doorkey-6x6-normal**  | **doorkey-6x6-shortcut** |
+|                          |                          |
+|  **doorkey-8x8-normal**  |  **doorkey-8x8-direct**  |
+|                          |                          |
+| **doorkey-8x8-shortcut** |                          |
+|                          |                          |
+

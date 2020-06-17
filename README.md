@@ -23,7 +23,6 @@
 
 ## Dynamic Programming
 
-​	It is an algorithm that can compute an optimal closed-loop policy given a known Markov Decision Process model of the environment. The main idea is to use the value functions to structure the search for good polices. The advantages it has is that it is much more efficient than the brute-force approach of evaluating all possible strategies. 
+​	It is an algorithm that can compute an optimal closed-loop policy given a known Markov Decision Process model of the environment. The main idea is to use the value functions to structure the search for good polices. The advantages it has are that it is much more efficient than the brute-force approach of evaluating all possible strategies. 
 
-
-
+<img src="https://github.com/coldhenry/Dynamic-Programming-and-Markov-Processes/blob/master/pic/DP_alg.png" width="360">

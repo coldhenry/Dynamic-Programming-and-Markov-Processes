@@ -4,13 +4,6 @@ Created on Thu Apr 23 14:46:39 2020
 
 @author: coldhenry
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 22 00:29:59 2020
-
-@author: coldhenry
-"""
 from matplotlib import pyplot as plt 
 import gym_minigrid
 import numpy as np
